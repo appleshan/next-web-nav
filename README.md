@@ -107,7 +107,7 @@ interface NavCategory {
 ## 部署指南
 
 ### Vercel 部署（推荐）
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/liwenka1/next-web-nav)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/appleshan/next-web-nav)
 
 1. 点击上方按钮
 2. 选择或导入你的 GitHub 仓库
