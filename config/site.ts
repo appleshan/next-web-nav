@@ -67,7 +67,7 @@ export const NavData: NavData[] = [
         link: "https://chat.openai.com/"
       },
       {
-        icon: "https://claude.ai/favicon.ico",
+        icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/1200px-Claude_AI_symbol.svg.png",
         title: "Claude",
         desc: "[Anthropic] Talk with Claude, an AI assistant from Anthropic",
         link: "https://claude.ai/"
@@ -85,7 +85,7 @@ export const NavData: NavData[] = [
         link: "https://www.perplexity.ai/"
       },
       {
-        icon: "https://grok.com/images/favicon-light.png",
+        icon: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-ai-icon.png",
         title: "Grok",
         desc: "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
         link: "https://grok.com/"
@@ -120,7 +120,7 @@ export const NavData: NavData[] = [
         link: "https://openai.com/zh-Hans-CN/codex/"
       },
       {
-        icon: "https://claude.ai/favicon.ico",
+        icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/1200px-Claude_AI_symbol.svg.png",
         title: "Claude code",
         desc: "Claude 是由 Anthropic 公司开发的 AI 助手，以其乐于助人、无害且真诚的对话能力而闻名。提供免费版本。",
         link: "https://www.anthropic.com/claude-code"
@@ -373,6 +373,12 @@ export const NavData: NavData[] = [
         title: "中文独立博客列表",
         desc: "中文独立博客列表，中文圈著名的博客基本都在里面了。",
         link: "https://github.com/timqian/chinese-independent-blogs/"
+      },
+      {
+        icon: "https://aixq.top/favicon.ico",
+        title: "AI星球",
+        desc: "AI星球是一款专注于人工智能领域的专业级 AI 导航网站，为用户集成全球热门与最新的 AI 工具与资源，帮助用户快速找到最适合的智能应用，提高工作效率与创作能力。",
+        link: "https://aixq.top/"
       }
     ]
   }
