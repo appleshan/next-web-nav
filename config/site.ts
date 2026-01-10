@@ -201,16 +201,22 @@ export const NavData: NavData[] = [
         link: "https://indiehackertools.net/"
       },
       {
+        icon: "https://github.com/fluidicon.png",
+        title: "Indie Tools",
+        desc: "收录独立开发、AI 出海领域最新、最实用的免费工具与资源",
+        link: "https://github.com/yaolifeng0629/Awesome-independent-tools"
+      },
+      {
+        icon: "https://www.indietools.work/favicon_dark.svg",
+        title: "Indie Tools",
+        desc: "收录独立开发、AI 出海领域最新、最实用的免费工具与资源",
+        link: "https://www.indietools.work/"
+      },
+      {
         icon: "https://free.mkdirs.com/favicon-32x32.png",
         title: "Indie Hacker Tools",
         desc: "独立开发者导航站，发掘发掘最优秀的工具，助力你快速发布下一个应用！",
         link: "https://free.mkdirs.com/zh"
-      },
-      {
-        icon: "https://indiehub.best/logo.png",
-        title: "IndieHub",
-        desc: "最好的独立开发者导航站，收录400+独立开发工具，支持开发者提交产品",
-        link: "https://indiehub.best/"
       },
       {
         icon: "https://github.com/fluidicon.png",
@@ -223,6 +229,12 @@ export const NavData: NavData[] = [
         title: "中国独立开发者项目列表(网页版)",
         desc: "为了更好的展示开发者的项目/产品。",
         link: "https://developer.hubing.online/home"
+      },
+      {
+        icon: "https://indiehub.best/logo.png",
+        title: "IndieHub",
+        desc: "最好的独立开发者导航站，收录400+独立开发工具，支持开发者提交产品",
+        link: "https://indiehub.best/"
       }
     ]
   },
