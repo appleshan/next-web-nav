@@ -247,6 +247,12 @@ export const NavData: NavData[] = [
         title: "IndieHub",
         desc: "最好的独立开发者导航站，收录400+独立开发工具，支持开发者提交产品",
         link: "https://indiehub.best/"
+      },
+      {
+        icon: "https://github.com/fluidicon.png",
+        title: "indie-hacker-tools",
+        desc: "出海第一步，搞定工具库。收录独立开发者出海技术栈和工具",
+        link: "https://github.com/weijunext/indie-hacker-tools"
       }
     ]
   },
@@ -412,6 +418,12 @@ export const NavData: NavData[] = [
     title: "社区",
     items: [
       {
+        icon: "https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19",
+        title: "Medium👍",
+        desc: "Medium 是一个全球性的高质量内容博客和出版平台。",
+        link: "https://medium.com/"
+      },
+      {
         icon: "https://www.redditstatic.com/shreddit/assets/favicon/192x192.png",
         title: "Reddit👍",
         desc: "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
@@ -509,6 +521,12 @@ export const NavData: NavData[] = [
         title: "Chrome插件英雄榜",
         desc: "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~",
         link: "https://github.com/zhaoolee/ChromeAppHeroes/"
+      },
+      {
+        icon: "https://github.com/fluidicon.png",
+        title: "中文twitter用户列表",
+        desc: "值得关注的中文twitter用户",
+        link: "https://github.com/DennisThink/awesome_twitter_CN"
       }
     ]
   }
