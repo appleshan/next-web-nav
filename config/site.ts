@@ -190,7 +190,7 @@ export const NavData: NavData[] = [
     title: "GitHub",
     items: [
       {
-        icon: "https://git-stars.org/favicon-180x180.png",
+        icon: "https://github.com/fluidicon.png",
         title: "GitHub 顶级仓库",
         desc: "在 GitHub 上发现最受欢迎的仓库，按受欢迎程度排名",
         link: "https://git-stars.org/"
@@ -457,6 +457,12 @@ export const NavData: NavData[] = [
         title: "沉浸式翻译",
         desc: "网页、PDF 文档、电子书以及视频字幕，双语翻译，体验极佳！",
         link: "https://immersivetranslate.com/zh-Hans/"
+      },
+      {
+        icon: "https://vps-monitor.czl.net/favicon.ico",
+        title: "VPS 促销监控",
+        desc: "专业的VPS促销信息监控平台，实时更新各大厂商的VPS服务器优惠活动，包括CPU、内存、硬盘、带宽等详细配置和价格对比，帮您找到最优惠的VPS方案。",
+        link: "https://vps-monitor.czl.net/"
       }
     ]
   },
