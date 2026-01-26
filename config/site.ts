@@ -73,7 +73,7 @@ export const NavData: NavData[] = [
         link: "https://claude.ai/"
       },
       {
-        icon: "https://www.gstatic.com/lamda/images/gemini_sparkle_4g_512_lt_f94943af3be039176192d.png",
+        icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUR4obxRtzoY5cbjKFu_9Vf-s62Xn4O9pLw",
         title: "Gemini | Google",
         desc: "生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
         link: "https://gemini.google.com/"
