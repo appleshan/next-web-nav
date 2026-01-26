@@ -113,6 +113,7 @@ const SettingDialog = () => {
       <DialogTrigger asChild>
         <Button variant="ghost" size="icon" className="rounded-full hover:bg-accent">
           <Settings className="h-5 w-5" />
+          <span className="sr-only">Settings</span>
         </Button>
       </DialogTrigger>
       {/* 修复移动端下dialogcontent 不显示圆角矩形、按钮错位等问题 */}
@@ -175,7 +176,7 @@ const SettingDialog = () => {
                         >
                           <Trash2 className="h-4 w-4" />
                         </Button>
-                        
+
                         <div className="grid grid-cols-4 items-center gap-y-3 gap-x-3 pr-8">
                           <Label className="text-sm font-medium text-muted-foreground">图标 URL</Label>
                           <Input
@@ -232,7 +233,7 @@ const SettingDialog = () => {
             onClick={handleResetClick}
             className={cn(
               "h-9 text-sm transition-all",
-              "sm:mr-auto", 
+              "sm:mr-auto",
               isResetting && "animate-pulse bg-destructive/90 hover:bg-destructive"
             )}
           >

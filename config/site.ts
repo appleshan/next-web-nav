@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Alans的导航站",
+  name: "Alan的导航站",
   description: `作为一个新晋的独立开发者，我在尝试入门独立开发这个领域时，遇到了一些问题：
 
 独立开发都需要哪些工具？什么工具最适合我使用？
@@ -50,7 +50,7 @@ export const NavData: NavData[] = [
         link: "https://vercel.com/"
       },
       {
-        icon: "https://images.alans.site/file/1769402883175_drive_2022q3_32dp.webp",
+        icon: "https://images.alans.site/file/1769418474896_2416659.webp",
         title: "Google 云端硬盘",
         desc: "使用 Google 账号（个人用途）或 Google Workspace 账号（企业用途）访问 Google 云端硬盘。",
         link: "https://drive.google.com/"
@@ -67,7 +67,7 @@ export const NavData: NavData[] = [
         link: "https://chatgpt.com/"
       },
       {
-        icon: "https://images.alans.site/file/1769403099501_ClaudeAI01-circle.webp",
+        icon: "https://images.alans.site/file/1769417413231_icons8-claude-ai-48.webp",
         title: "Claude | Anthropic",
         desc: "Talk with Claude, an AI assistant from Anthropic",
         link: "https://claude.ai/"
@@ -126,7 +126,7 @@ export const NavData: NavData[] = [
         link: "https://openai.com/zh-Hans-CN/codex/"
       },
       {
-        icon: "https://images.alans.site/file/1769403099501_ClaudeAI01-circle.webp",
+        icon: "https://images.alans.site/file/1769417413231_icons8-claude-ai-48.webp",
         title: "Claude Code👍 | Anthropic",
         desc: "Claude 是由 Anthropic 公司开发的 AI 助手，以其乐于助人、无害且真诚的对话能力而闻名。提供免费版本。",
         link: "https://www.anthropic.com/claude-code"
@@ -208,19 +208,19 @@ export const NavData: NavData[] = [
     items: [
       {
         icon: "https://images.alans.site/file/1769405424974_indiehackertools-favicon-32x32.webp",
-        title: "Indie Hacker Tools",
+        title: "独立开发者出海工具箱",
         desc: "分享各种出海工具，让每个独立开发者都能开心赚美元！",
         link: "https://indiehackertools.net/"
       },
       {
         icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
-        title: "Indie Tools",
+        title: "Awesome-independent-tools",
         desc: "收录独立开发、AI 出海领域最新、最实用的免费工具与资源",
         link: "https://github.com/yaolifeng0629/Awesome-independent-tools"
       },
       {
         icon: "https://images.alans.site/file/1769405594425_indietools-favicon_dark.webp",
-        title: "Indie Tools",
+        title: "Indie Tools | Hackers & Sass for Independent Makers",
         desc: "收录独立开发、AI 出海领域最新、最实用的免费工具与资源",
         link: "https://www.indietools.work/"
       },
@@ -243,9 +243,9 @@ export const NavData: NavData[] = [
         link: "https://developer.hubing.online/home"
       },
       {
-        icon: "https://images.alans.site/file/1769405701589_logo.webp",
+        icon: "https://images.alans.site/file/1769416544658_favicon-32x32.webp",
         title: "IndieHub",
-        desc: "最好的独立开发者导航站，收录400+独立开发工具，支持开发者提交产品",
+        desc: "Discover tools, Launch products, and Ship applications faster and better.",
         link: "https://indiehub.best/"
       },
       {

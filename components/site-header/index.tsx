@@ -41,7 +41,7 @@ export function SiteHeader({ onMenuClick }: SiteHeaderProps) {
   const { categories } = useConfigStore()
 
   return (
-    <header className="sticky top-0 z-40 w-full bg-background dark:border-slate-50/[0.06] lg:border-b lg:border-slate-900/10">
+    <header role="banner" className="sticky top-0 z-40 w-full bg-background dark:border-slate-50/[0.06] lg:border-b lg:border-slate-900/10">
       <div className="container m-0 flex h-16 items-center space-x-4 sm:justify-between sm:space-x-0">
         {/* 汉堡菜单按钮，只在 sm 以下屏幕显示 */}
         <div className="flex items-center sm:hidden">
