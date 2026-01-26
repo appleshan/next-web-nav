@@ -67,7 +67,7 @@ export const NavData: NavData[] = [
         link: "https://chatgpt.com/"
       },
       {
-        icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/1200px-Claude_AI_symbol.svg.png",
+        icon: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg",
         title: "Claude | Anthropic",
         desc: "Talk with Claude, an AI assistant from Anthropic",
         link: "https://claude.ai/"
@@ -79,7 +79,7 @@ export const NavData: NavData[] = [
         link: "https://gemini.google.com/"
       },
       {
-        icon: "https://ih1.redbubble.net/image.5663163473.1331/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+        icon: "https://knowprose.com/wp-content/uploads/2024/04/turquoise402xperplexity.ai_.png.webp",
         title: "perplexity",
         desc: "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
         link: "https://www.perplexity.ai/"
@@ -126,13 +126,13 @@ export const NavData: NavData[] = [
         link: "https://openai.com/zh-Hans-CN/codex/"
       },
       {
-        icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/1200px-Claude_AI_symbol.svg.png",
+        icon: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg",
         title: "Claude Code👍 | Anthropic",
         desc: "Claude 是由 Anthropic 公司开发的 AI 助手，以其乐于助人、无害且真诚的对话能力而闻名。提供免费版本。",
         link: "https://www.anthropic.com/claude-code"
       },
       {
-        icon: "https://geminicli.com/icon.png",
+        icon: "https://static.wikia.nocookie.net/logopedia/images/a/ac/Gemini_CLI_logo.svg/revision/latest/scale-to-width-down/200?cb=20260105212234",
         title: "Gemini CLI | Google",
         desc: "Query and edit large codebases, generate apps from images or PDFs, and automate complex workflows—all from your terminal with Gemini 3.",
         link: "https://geminicli.com/"
@@ -150,7 +150,7 @@ export const NavData: NavData[] = [
         link: "https://www.minimaxi.com/news/minimax-m2"
       },
       {
-        icon: "https://cursor.com/marketing-static/favicon.ico",
+        icon: "https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/cursor.png",
         title: "Cursor",
         desc: "The AI Code Editor Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
         link: "https://www.cursor.com/"
@@ -179,7 +179,7 @@ export const NavData: NavData[] = [
         link: "https://mcp.so/"
       },
       {
-        icon: "https://github.com/fluidicon.png",
+        icon: "https://icones.pro/wp-content/uploads/2021/06/icone-github-noir.png",
         title: "yzfly/Awesome-MCP-ZH",
         desc: "MCP 资源精选，MCP指南，Claude MCP，MCP Servers，MCP Clients",
         link: "https://github.com/yzfly/Awesome-MCP-ZH/"
@@ -190,13 +190,13 @@ export const NavData: NavData[] = [
     title: "GitHub",
     items: [
       {
-        icon: "https://github.com/fluidicon.png",
+        icon: "https://icones.pro/wp-content/uploads/2021/06/icone-github-noir.png",
         title: "GitHub 顶级仓库",
         desc: "在 GitHub 上发现最受欢迎的仓库，按受欢迎程度排名",
         link: "https://git-stars.org/"
       },
       {
-        icon: "https://github.com/fluidicon.png",
+        icon: "https://icones.pro/wp-content/uploads/2021/06/icone-github-noir.png",
         title: "GitHub 中国区用户排行榜",
         desc: "按照 Followers 数量排序，展示中国优秀个人开发者",
         link: "https://china-ranking.32k.site/"
@@ -213,7 +213,7 @@ export const NavData: NavData[] = [
         link: "https://indiehackertools.net/"
       },
       {
-        icon: "https://github.com/fluidicon.png",
+        icon: "https://icones.pro/wp-content/uploads/2021/06/icone-github-noir.png",
         title: "Indie Tools",
         desc: "收录独立开发、AI 出海领域最新、最实用的免费工具与资源",
         link: "https://github.com/yaolifeng0629/Awesome-independent-tools"
@@ -231,7 +231,7 @@ export const NavData: NavData[] = [
         link: "https://free.mkdirs.com/zh"
       },
       {
-        icon: "https://github.com/fluidicon.png",
+        icon: "https://icones.pro/wp-content/uploads/2021/06/icone-github-noir.png",
         title: "中国独立开发者项目列表",
         desc: "作为开发者其实比较好奇其他人在做什么业余项目，所以特意建了这个库聚合所有中国独立开发者的项目。",
         link: "https://github.com/1c7/chinese-independent-developer/"
@@ -249,7 +249,7 @@ export const NavData: NavData[] = [
         link: "https://indiehub.best/"
       },
       {
-        icon: "https://github.com/fluidicon.png",
+        icon: "https://icones.pro/wp-content/uploads/2021/06/icone-github-noir.png",
         title: "indie-hacker-tools",
         desc: "出海第一步，搞定工具库。收录独立开发者出海技术栈和工具",
         link: "https://github.com/weijunext/indie-hacker-tools"
@@ -260,7 +260,7 @@ export const NavData: NavData[] = [
     title: "域名",
     items: [
       {
-        icon: "https://toppng.com/uploads/preview/namecheap-logo-11609369922hooobefgfj.png",
+        icon: "https://cdn.iconscout.com/icon/free/png-256/free-namecheap-icon-svg-download-png-283654.png",
         title: "Namecheap",
         desc: "据说比较便宜",
         link: "https://www.namecheap.com/"
@@ -284,7 +284,7 @@ export const NavData: NavData[] = [
         link: "http://www.dynadot.com/"
       },
       {
-        icon: "https://digitalplat.org/wp-content/uploads/2024/05/logo.jpg",
+        icon: "https://dptemp.444457.xyz/wp-content/uploads/2022/11/digitalplat-1-1024x1024.jpg",
         title: "DigitalPlat Domain",
         desc: "免费域名服务，提供像 *.DPDNS.ORG 或曾有的 *.US.KG 这样的免费子域名，让个人和组织能免费拥有自己的数字身份，无需支付域名费用，适合用于学习、个人项目或快速建站。",
         link: "https://domain.digitalplat.org/"
@@ -367,7 +367,7 @@ export const NavData: NavData[] = [
     items: [
       {
         title: "Github",
-        icon: "https://github.com/fluidicon.png",
+        icon: "https://icones.pro/wp-content/uploads/2021/06/icone-github-noir.png",
         desc: "一个面向开源及私有软件项目的托管平台",
         link: "https://github.com"
       },
@@ -494,13 +494,13 @@ export const NavData: NavData[] = [
         link: "https://aiwith.me/"
       },
       {
-        icon: "https://github.com/fluidicon.png",
+        icon: "https://icones.pro/wp-content/uploads/2021/06/icone-github-noir.png",
         title: "List of AI Directories",
         desc: "An awesome list of best top AI directories to submit your ai tools",
         link: "https://github.com/best-of-ai/ai-directories/"
       },
       {
-        icon: "https://cdn.midday.ai/cursor/favicon.png",
+        icon: "https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/cursor.png",
         title: "Cursor 规则使用指南",
         desc: "The home for Cursor enthusiasts where you can explore and generate rules, browse MCPs, post and follow the latest news on the board, learn, connect, and discover jobs all in one place.",
         link: "https://cursor.directory/"
@@ -517,19 +517,19 @@ export const NavData: NavData[] = [
     title: "其他导航",
     items: [
       {
-        icon: "https://github.com/fluidicon.png",
+        icon: "https://icones.pro/wp-content/uploads/2021/06/icone-github-noir.png",
         title: "中文独立博客列表",
         desc: "中文独立博客列表，中文圈著名的博客基本都在里面了。",
         link: "https://github.com/timqian/chinese-independent-blogs/"
       },
       {
-        icon: "https://github.com/fluidicon.png",
+        icon: "https://icones.pro/wp-content/uploads/2021/06/icone-github-noir.png",
         title: "Chrome插件英雄榜",
         desc: "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~",
         link: "https://github.com/zhaoolee/ChromeAppHeroes/"
       },
       {
-        icon: "https://github.com/fluidicon.png",
+        icon: "https://icones.pro/wp-content/uploads/2021/06/icone-github-noir.png",
         title: "中文twitter用户列表",
         desc: "值得关注的中文twitter用户",
         link: "https://github.com/DennisThink/awesome_twitter_CN"
