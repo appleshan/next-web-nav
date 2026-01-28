@@ -40,7 +40,7 @@ export const NavData: NavData[] = [
       {
         icon: "https://images.alans.site/file/1769402751850_08ba50ec1de91ad38e7d4024121dba76c45ab53e-512x512.webp",
         title: "Cloudflare👍",
-        desc: "人称赛博佛祖，免费 CDN、WAF、SSL、DDoS 防护等多种功能，可为网站提供优化加速和安全防护。",
+        desc: "Cloudflare 是一家伟大的互联网公司，她致力于建立更好的互联网。目前她提供的服务强大而又高效，同时很多项目都可以免费使用，诸如免费提供 CDN、DNS 服务以及本文即将介绍的 Worker 服务。",
         link: "https://www.cloudflare.com/"
       },
       {
@@ -173,10 +173,16 @@ export const NavData: NavData[] = [
     title: "MCP Server",
     items: [
       {
+        icon: "https://glama.ai/favicon.ico",
+        title: "Glama | Popular MCP Servers",
+        desc: "各种各样的 MCP Server",
+        link: "https://glama.ai/mcp/servers"
+      },
+      {
         icon: "https://images.alans.site/file/1769404964992_2026-01-26_13-11.webp",
         title: "MCP Server 集合站",
         desc: "各种各样的 MCP Server",
-        link: "https://smithery.ai/"
+        link: "https://smithery.ai/servers"
       },
       {
         icon: "https://images.alans.site/file/1769405005079_favicon.webp",
@@ -330,6 +336,12 @@ export const NavData: NavData[] = [
         title: "Query.Domains",
         desc: "即时批量域名可用性检查工具。",
         link: "https://query.domains/"
+      },
+      {
+        icon: "https://dnschecker.org/themes/common/images/general/favicon-32.png",
+        title: "DNS Check",
+        desc: "Cloudflare官方推荐的，检测域名解析",
+        link: "https://dnschecker.org/"
       }
     ]
   },
@@ -339,7 +351,7 @@ export const NavData: NavData[] = [
       {
         icon: "https://images.alans.site/file/1769402751850_08ba50ec1de91ad38e7d4024121dba76c45ab53e-512x512.webp",
         title: "Cloudflare👍",
-        desc: "人称赛博佛祖，免费 CDN、WAF、SSL、DDoS 防护等多种功能，可为网站提供优化加速和安全防护。",
+        desc: "Cloudflare 是一家伟大的互联网公司，她致力于建立更好的互联网。目前她提供的服务强大而又高效，同时很多项目都可以免费使用，诸如免费提供 CDN、DNS 服务以及本文即将介绍的 Worker 服务。",
         link: "https://www.cloudflare.com/"
       },
       {
@@ -469,6 +481,12 @@ export const NavData: NavData[] = [
         title: "VPS 促销监控",
         desc: "专业的 VPS 促销信息监控平台，实时更新各大厂商的 VPS 服务器优惠活动，包括 CPU、内存、硬盘、带宽等详细配置和价格对比，帮您找到最优惠的 VPS 方案。",
         link: "https://vps-monitor.czl.net/"
+      },
+      {
+        icon: "https://namae.dev/favicon.ico",
+        title: "namae",
+        desc: "查询各个平台名字",
+        link: "https://namae.dev/"
       }
     ]
   },
