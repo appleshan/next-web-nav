@@ -63,7 +63,7 @@ export function Sidebar({ onLinkClick }: SidebarProps) {
 
   return (
     <nav role="navigation" className="after:h-[calc(100vh-65px)] block min-h-screen w-full sm:w-60 flex-row flex-nowrap bg-background font-semibold sm:bg-background px-4 sm:px-6 sm:pb-6 pt-16 sm:pt-0">
-      <div className="mx-6 hidden sm:block">
+      <div className="mx-auto hidden sm:block">
         <h1 className="h-14 leading-[4rem] text-2xl font-bold tracking-tight">
           Alans的导航站
         </h1>

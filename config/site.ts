@@ -75,7 +75,7 @@ export const NavData: NavData[] = [
       {
         icon: "https://images.alans.site/file/1769403218320_images.webp",
         title: "Gemini | Google",
-        desc: "生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
+        desc: "生成式人工智能聊天机器人。它基于同名的 Gemini 系列大型语言模型。",
         link: "https://gemini.google.com/"
       },
       {
@@ -105,8 +105,14 @@ export const NavData: NavData[] = [
       {
         icon: "https://images.alans.site/file/1769403420056_apple-touch-icon.webp",
         title: "Poe",
-        desc: "Poe一款由Quora开发的应用程序。该应用程序集成了多种生成式人工智能，可使用户能够便利切换，比较和使用市场上主流的大型语言模型。",
+        desc: "Poe 一款由 Quora 开发的应用程序。该应用程序集成了多种生成式人工智能，可使用户能够便利切换，比较和使用市场上主流的大型语言模型。",
         link: "https://poe.com/"
+      },
+      {
+        icon: "https://images.alans.site/file/1769489409958_favicon.webp",
+        title: "Microsoft Copilot",
+        desc: "Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now.",
+        link: "https://copilot.microsoft.com/"
       },
       {
         icon: "https://images.alans.site/file/1769403514760_monica-im-logo.webp",
@@ -145,8 +151,8 @@ export const NavData: NavData[] = [
       },
       {
         icon: "https://images.alans.site/file/1769403588432_25289820-59cd-4365-9829-a3f32b365451.webp",
-        title: "MiniMax M2 & Agent: Ingenious in Simplicity",
-        desc: "一款紧凑、快速且性价比超强的模型，专为Coding和Agent而生",
+        title: "MiniMax M2",
+        desc: "一款紧凑、快速且性价比超强的模型，专为 Coding 和 Agent 而生",
         link: "https://www.minimaxi.com/news/minimax-m2"
       },
       {
@@ -181,7 +187,7 @@ export const NavData: NavData[] = [
       {
         icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
         title: "yzfly/Awesome-MCP-ZH",
-        desc: "MCP 资源精选，MCP指南，Claude MCP，MCP Servers，MCP Clients",
+        desc: "MCP 资源精选，MCP 指南，Claude MCP，MCP Servers，MCP Clients",
         link: "https://github.com/yzfly/Awesome-MCP-ZH/"
       }
     ]
@@ -204,7 +210,7 @@ export const NavData: NavData[] = [
     ]
   },
   {
-    title: "独立开发者导航",
+    title: "独立开发者",
     items: [
       {
         icon: "https://images.alans.site/file/1769405424974_indiehackertools-favicon-32x32.webp",
@@ -214,14 +220,14 @@ export const NavData: NavData[] = [
       },
       {
         icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
-        title: "Awesome-independent-tools",
+        title: "Indie Tools（Github）",
         desc: "收录独立开发、AI 出海领域最新、最实用的免费工具与资源",
         link: "https://github.com/yaolifeng0629/Awesome-independent-tools"
       },
       {
         icon: "https://images.alans.site/file/1769405594425_indietools-favicon_dark.webp",
-        title: "Indie Tools | Hackers & Sass for Independent Makers",
-        desc: "收录独立开发、AI 出海领域最新、最实用的免费工具与资源",
+        title: "Indie Tools（网页版）",
+        desc: "Hackers & Sass for Independent Makers",
         link: "https://www.indietools.work/"
       },
       {
@@ -238,7 +244,7 @@ export const NavData: NavData[] = [
       },
       {
         icon: "https://images.alans.site/file/1769405667623_favicon.webp",
-        title: "中国独立开发者项目列表(网页版)",
+        title: "中国独立开发者项目列表（网页版）",
         desc: "为了更好的展示开发者的项目/产品。",
         link: "https://developer.hubing.online/home"
       },
@@ -268,7 +274,7 @@ export const NavData: NavData[] = [
       {
         icon: "https://images.alans.site/file/1769405904070_namesilo-logo-.webp",
         title: "NameSilo",
-        desc: "提供互联网上最低的日常域名价格，自动屏蔽whois",
+        desc: "提供最低的日常域名价格，自动屏蔽whois",
         link: "https://www.namesilo.com/"
       },
       {
@@ -286,13 +292,13 @@ export const NavData: NavData[] = [
       {
         icon: "https://images.alans.site/file/1769406185418_FsmjPBgWIAMFIyH.webp",
         title: "DigitalPlat Domain",
-        desc: "免费域名服务，提供像 *.DPDNS.ORG 或曾有的 *.US.KG 这样的免费子域名，让个人和组织能免费拥有自己的数字身份，无需支付域名费用，适合用于学习、个人项目或快速建站。",
+        desc: "免费域名服务，提供像 *.qzz.io 或曾有的 *.us.kg 这样的免费子域名，让个人和组织能免费拥有自己的数字身份，无需支付域名费用，适合用于学习、个人项目或快速建站。",
         link: "https://domain.digitalplat.org/"
       },
       {
         icon: "https://images.alans.site/file/1769406234520_favicon.webp",
         title: "DNS.fish",
-        desc: "即时 DNS 查询工具。使用我们开发者优先的工具，在毫秒内分析域名健康状况、验证 DNS 传播，并检查 DNS 记录（A、MX、NS、CNAME）。",
+        desc: "DNS 查询工具。使用我们开发者优先的工具，在毫秒内分析域名健康状况、验证 DNS 传播，并检查 DNS 记录（A、MX、NS、CNAME）。",
         link: "https://dns.fish/"
       },
       {
@@ -345,7 +351,7 @@ export const NavData: NavData[] = [
       {
         icon: "https://images.alans.site/file/1769406444783_favicon.webp",
         title: "Tencent -  EdgeOne",
-        desc: "Tencent EdgeOne，亚洲领先的CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。",
+        desc: "Tencent EdgeOne，亚洲领先的 CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。",
         link: "https://edgeone.ai/zh"
       },
       {
@@ -390,7 +396,7 @@ export const NavData: NavData[] = [
     items: [
       {
         icon: "https://images.alans.site/file/1769406961460_favicon.svg",
-        title: "Claude Code 免费从入门到精通",
+        title: "Claude Code 从入门到精通",
         desc: "专为开发者打造的终极文档指南。从环境配置到构建自定义 AI 智能体，这套免费课程将帮助您掌握下一代编程工具，提升 3 倍开发效率。",
         link: "https://claudecode.tangshuang.net/"
       },
@@ -409,7 +415,7 @@ export const NavData: NavData[] = [
       {
         icon: "https://images.alans.site/file/1769407050787_vimlogo.svg",
         title: "简明 Vim 练级攻略",
-        desc: "翻译自《Learn Vim Progressively》，这是给新手最好的VIM练级教程了，没有列举所有的命令，只是列举了那些最有用的命令。非常不错。",
+        desc: "翻译自《Learn Vim Progressively》，这是给新手最好的 VIM 练级教程了，没有列举所有的命令，只是列举了那些最有用的命令。非常不错。",
         link: "https://coolshell.cn/articles/5426.html"
       }
     ]
@@ -461,7 +467,7 @@ export const NavData: NavData[] = [
       {
         icon: "https://images.alans.site/file/1769407341241_favicon.webp",
         title: "VPS 促销监控",
-        desc: "专业的VPS促销信息监控平台，实时更新各大厂商的VPS服务器优惠活动，包括CPU、内存、硬盘、带宽等详细配置和价格对比，帮您找到最优惠的VPS方案。",
+        desc: "专业的 VPS 促销信息监控平台，实时更新各大厂商的 VPS 服务器优惠活动，包括 CPU、内存、硬盘、带宽等详细配置和价格对比，帮您找到最优惠的 VPS 方案。",
         link: "https://vps-monitor.czl.net/"
       }
     ]
@@ -471,20 +477,20 @@ export const NavData: NavData[] = [
     items: [
       {
         icon: "https://aixq.top/favicon.ico",
-        title: "AI星球",
-        desc: "AI星球是一款专注于人工智能领域的专业级 AI 导航网站，为用户集成全球热门与最新的 AI 工具与资源，帮助用户快速找到最适合的智能应用，提高工作效率与创作能力。",
+        title: "AI 星球",
+        desc: "AI 星球是一款专注于人工智能领域的专业级 AI 导航网站，为用户集成全球热门与最新的 AI 工具与资源，帮助用户快速找到最适合的智能应用，提高工作效率与创作能力。",
         link: "https://aixq.top/"
       },
       {
         icon: "https://www.ailookme.com/wp-content/uploads/2023/04/1234-1.png",
-        title: "AI工具箱",
+        title: "AI 工具箱",
         desc: "人工智能领域工具导航网站",
         link: "https://www.ailookme.com/"
       },
       {
         icon: "https://www.aifly.tools/logo.png",
         title: "最好的 AI 工具站",
-        desc: "适合超级个人的最佳新AI工具",
+        desc: "适合超级个人的最佳新 AI 工具",
         link: "https://www.aifly.tools/"
       },
       {
@@ -525,13 +531,13 @@ export const NavData: NavData[] = [
       {
         icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
         title: "Chrome插件英雄榜",
-        desc: "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~",
+        desc: "🌈谷粒 - Chrome 插件英雄榜, 为优秀的 Chrome 插件写一本中文说明书, 让 Chrome 插件英雄们造福人类~",
         link: "https://github.com/zhaoolee/ChromeAppHeroes/"
       },
       {
         icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
         title: "中文twitter用户列表",
-        desc: "值得关注的中文twitter用户",
+        desc: "值得关注的中文 twitter 用户",
         link: "https://github.com/DennisThink/awesome_twitter_CN"
       }
     ]
