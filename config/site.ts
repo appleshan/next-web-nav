@@ -338,7 +338,7 @@ export const NavData: NavData[] = [
         link: "https://query.domains/"
       },
       {
-        icon: "https://dnschecker.org/themes/common/images/general/favicon-32.png",
+        icon: "https://images.alans.site/file/1770168635792_image.webp",
         title: "DNS Check",
         desc: "Cloudflare官方推荐的，检测域名解析",
         link: "https://dnschecker.org/"
