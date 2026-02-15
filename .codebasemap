@@ -2,9 +2,9 @@
   "metadata": {
     "version": 1,
     "root": "/home/alecshan/projects/private/next-web-nav",
-    "createdAt": "2025-12-10T23:07:02.933Z",
-    "updatedAt": "2025-12-10T23:07:02.933Z",
-    "totalFiles": 30
+    "createdAt": "2026-02-15T05:23:40.796Z",
+    "updatedAt": "2026-02-15T05:23:40.796Z",
+    "totalFiles": 31
   },
   "tree": {
     "name": "next-web-nav",
@@ -173,6 +173,10 @@
         ]
       },
       {
+        "name": "eslint.config.js",
+        "type": "file"
+      },
+      {
         "name": "next-env.d.ts",
         "type": "file"
       },
@@ -209,6 +213,7 @@
     "components/ui/toaster.tsx",
     "components/ui/use-toast.ts",
     "config/site.ts",
+    "eslint.config.js",
     "lib/fonts.ts",
     "lib/utils.ts",
     "next-env.d.ts",
@@ -377,11 +382,6 @@
     },
     "components/link-content.tsx": {
       "imports": [
-        {
-          "from": "next/image",
-          "kind": "import",
-          "isDefault": true
-        },
         {
           "from": "next/link",
           "kind": "import",
@@ -1470,6 +1470,39 @@
         }
       ]
     },
+    "eslint.config.js": {
+      "imports": [
+        {
+          "from": "@next/eslint-plugin-next",
+          "kind": "import",
+          "isDefault": true
+        },
+        {
+          "from": "eslint-plugin-react",
+          "kind": "import",
+          "isDefault": true
+        },
+        {
+          "from": "eslint-plugin-react-hooks",
+          "kind": "import",
+          "isDefault": true
+        },
+        {
+          "from": "typescript-eslint",
+          "kind": "import",
+          "isDefault": true
+        },
+        {
+          "from": "@eslint/js",
+          "kind": "import",
+          "isDefault": true
+        }
+      ],
+      "dependencies": [],
+      "functions": [],
+      "classes": [],
+      "constants": []
+    },
     "lib/fonts.ts": {
       "imports": [
         {
@@ -1534,7 +1567,12 @@
       "constants": []
     },
     "next-env.d.ts": {
-      "imports": [],
+      "imports": [
+        {
+          "from": "./.next/dev/types/routes.d.ts",
+          "kind": "import"
+        }
+      ],
       "dependencies": [],
       "functions": [],
       "classes": [],
