@@ -41,7 +41,7 @@ export const NavData: NavData[] = [
         icon: "https://images.alans.site/file/1769402751850_08ba50ec1de91ad38e7d4024121dba76c45ab53e-512x512.webp",
         title: "Cloudflare👍",
         desc: "Cloudflare 是一家伟大的互联网公司，她致力于建立更好的互联网。目前她提供的服务强大而又高效，同时很多项目都可以免费使用，诸如免费提供 CDN、DNS 服务以及本文即将介绍的 Worker 服务。",
-        link: "https://www.cloudflare.com/"
+        link: "https://dash.cloudflare.com/"
       },
       {
         icon: "https://images.alans.site/file/1769402795541_apple-touch-icon-57x57.webp",
@@ -352,7 +352,7 @@ export const NavData: NavData[] = [
         icon: "https://images.alans.site/file/1769402751850_08ba50ec1de91ad38e7d4024121dba76c45ab53e-512x512.webp",
         title: "Cloudflare👍",
         desc: "Cloudflare 是一家伟大的互联网公司，她致力于建立更好的互联网。目前她提供的服务强大而又高效，同时很多项目都可以免费使用，诸如免费提供 CDN、DNS 服务以及本文即将介绍的 Worker 服务。",
-        link: "https://www.cloudflare.com/"
+        link: "https://dash.cloudflare.com/"
       },
       {
         icon: "https://images.alans.site/file/1769402795541_apple-touch-icon-57x57.webp",
