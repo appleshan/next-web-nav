@@ -284,12 +284,6 @@ export const NavData: NavData[] = [
         link: "https://www.namesilo.com/"
       },
       {
-        icon: "https://images.alans.site/file/1769406021324_7932688.webp",
-        title: "ClouDNS",
-        desc: "提供免费域名",
-        link: "https://www.cloudns.net/"
-      },
-      {
         icon: "https://images.alans.site/file/1769406060145_730a836cae71cfce98c16911bc003b46d8ec83cb-180x180.webp",
         title: "Dynadot",
         desc: "购买域名送域名邮箱，还可免费制作网站 Logo，非常贴心。",
