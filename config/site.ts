@@ -138,6 +138,12 @@ export const NavData: NavData[] = [
         link: "https://www.anthropic.com/claude-code"
       },
       {
+        icon: "https://images.alans.site/file/1769403928657_cursor-ai.webp",
+        title: "Cursor",
+        desc: "The AI Code Editor Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
+        link: "https://www.cursor.com/"
+      },
+      {
         icon: "https://images.alans.site/file/1769403218320_images.webp",
         title: "Gemini CLI | Google",
         desc: "Query and edit large codebases, generate apps from images or PDFs, and automate complex workflows—all from your terminal with Gemini 3.",
@@ -150,16 +156,16 @@ export const NavData: NavData[] = [
         link: "https://antigravity.google/"
       },
       {
+        icon: "https://images.alans.site/file/1783224990634_favicon.webp",
+        title: "Code Wiki",
+        desc: "Google 推出的基于 Gemini AI 的代码库文档平台，自动扫描代码仓生成结构化 Wiki，提供智能对话和架构图生成功能。",
+        link: "https://codewiki.google/"
+      },
+      {
         icon: "https://images.alans.site/file/1769403588432_25289820-59cd-4365-9829-a3f32b365451.webp",
         title: "MiniMax M2",
         desc: "一款紧凑、快速且性价比超强的模型，专为 Coding 和 Agent 而生",
         link: "https://www.minimaxi.com/news/minimax-m2"
-      },
-      {
-        icon: "https://images.alans.site/file/1769403928657_cursor-ai.webp",
-        title: "Cursor",
-        desc: "The AI Code Editor Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
-        link: "https://www.cursor.com/"
       },
       {
         icon: "https://images.alans.site/file/1769403998541_favicon.webp",
