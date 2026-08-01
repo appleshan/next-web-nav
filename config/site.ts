@@ -119,6 +119,12 @@ export const NavData: NavData[] = [
         title: "Monica",
         desc: "针对每个网站推荐常用的 AI 工具，一点即用",
         link: "https://monica.im/home"
+      },
+      {
+        icon: "https://images.alans.site/file/1785580726324_favicon.webp",
+        title: "Venice.ai",
+        desc: "Venice.ai 是一个主打隐私保护和无审查（Uncensored）的去中心化生成式人工智能平台。它允许用户进行文字聊天、编写代码以及生成图像，而不在中心化服务器上记录或存储用户的提示词和对话历史。",
+        link: "https://venice.ai/"
       }
     ]
   },
