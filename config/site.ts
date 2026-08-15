@@ -185,7 +185,7 @@ export const NavData: NavData[] = [
     title: "MCP Server",
     items: [
       {
-        icon: "https://glama.ai/favicon.ico",
+        icon: "https://images.alans.site/file/1786775472440_favicon.webp",
         title: "Glama | Popular MCP Servers",
         desc: "各种各样的 MCP Server",
         link: "https://glama.ai/mcp/servers"
@@ -419,6 +419,12 @@ export const NavData: NavData[] = [
         link: "https://claudecode.tangshuang.net/"
       },
       {
+        icon: "https://images.alans.site/file/1769402941979_images.webp",
+        title: "Codex CLI 完全使用指南：从入门到精通",
+        desc: "文章目的同样定位也是一本工具书，让我自己在使用 Codex 时遇到的一些问题或者相关使用和技巧的时候可以方便翻阅。",
+        link: "https://www.cnblogs.com/knqiufan/p/20094616"
+      },
+      {
         icon: "https://images.alans.site/file/1769407000602_logo.webp",
         title: "Free for Developers",
         desc: "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
@@ -495,7 +501,7 @@ export const NavData: NavData[] = [
         link: "https://vps-monitor.czl.net/"
       },
       {
-        icon: "https://namae.dev/favicon.ico",
+        icon: "https://images.alans.site/file/1786775239498_namae.dev.favicon.webp",
         title: "namae",
         desc: "查询各个平台名字",
         link: "https://namae.dev/"
@@ -506,25 +512,25 @@ export const NavData: NavData[] = [
     title: "AI 工具箱",
     items: [
       {
-        icon: "https://aixq.top/favicon.ico",
+        icon: "https://images.alans.site/file/1786775289261_favicon.webp",
         title: "AI 星球",
         desc: "AI 星球是一款专注于人工智能领域的专业级 AI 导航网站，为用户集成全球热门与最新的 AI 工具与资源，帮助用户快速找到最适合的智能应用，提高工作效率与创作能力。",
         link: "https://aixq.top/"
       },
       {
-        icon: "https://www.ailookme.com/wp-content/uploads/2023/04/1234-1.png",
+        icon: "https://images.alans.site/file/1786775325701_1234-1.webp",
         title: "AI 工具箱",
         desc: "人工智能领域工具导航网站",
         link: "https://www.ailookme.com/"
       },
       {
-        icon: "https://www.aifly.tools/logo.png",
+        icon: "https://images.alans.site/file/1786775351626_logo.webp",
         title: "最好的 AI 工具站",
         desc: "适合超级个人的最佳新 AI 工具",
         link: "https://www.aifly.tools/"
       },
       {
-        icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHs-6du6NlE14Qk5EheHw4y7NiCkGnoyQVA&s",
+        icon: "https://images.alans.site/file/1786775392469_images.webp",
         title: "AI With Me",
         desc: "AI 导航站，现在是免费提交，自动化截图，站点信息 AI 汇总生成，Google 登录，仅收录 AI 产品",
         link: "https://aiwith.me/"
@@ -542,10 +548,16 @@ export const NavData: NavData[] = [
         link: "https://cursor.directory/"
       },
       {
-        icon: "https://www.aishort.top/img/logo.svg",
+        icon: "https://images.alans.site/file/1786774965469_logo.svg",
         title: "AI Short",
         desc: "精选 AI 提示词，让每次对话更高效",
         link: "https://www.aishort.top/"
+      },
+      {
+        icon: "https://images.alans.site/file/1786774922355_logo-full-light.svg",
+        title: "BAT AI",
+        desc: "找到合适的 AI 工具",
+        link: "https://bataitools.com/zh/"
       }
     ]
   },
