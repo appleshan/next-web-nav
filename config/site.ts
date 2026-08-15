@@ -554,7 +554,7 @@ export const NavData: NavData[] = [
         link: "https://www.aishort.top/"
       },
       {
-        icon: "https://images.alans.site/file/1786774922355_logo-full-light.svg",
+        icon: "https://images.alans.site/file/1786783980567_2026-08-15_16-49.webp",
         title: "BAT AI",
         desc: "找到合适的 AI 工具",
         link: "https://bataitools.com/zh/"
