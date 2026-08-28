@@ -166,18 +166,6 @@ export const NavData: NavData[] = [
         title: "Code Wiki",
         desc: "Google 推出的基于 Gemini AI 的代码库文档平台，自动扫描代码仓生成结构化 Wiki，提供智能对话和架构图生成功能。",
         link: "https://codewiki.google/"
-      },
-      {
-        icon: "https://images.alans.site/file/1769403588432_25289820-59cd-4365-9829-a3f32b365451.webp",
-        title: "MiniMax M2",
-        desc: "一款紧凑、快速且性价比超强的模型，专为 Coding 和 Agent 而生",
-        link: "https://www.minimaxi.com/news/minimax-m2"
-      },
-      {
-        icon: "https://images.alans.site/file/1769403998541_favicon.webp",
-        title: "Build with Claude",
-        desc: "A collection of 400+ practical extensions to enhance your productivity across Claude.ai, Claude Code, and the Claude API.",
-        link: "https://www.buildwithclaude.com/"
       }
     ]
   },
@@ -215,15 +203,15 @@ export const NavData: NavData[] = [
     items: [
       {
         icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
-        title: "GitHub 顶级仓库",
-        desc: "在 GitHub 上发现最受欢迎的仓库，按受欢迎程度排名",
-        link: "https://git-stars.org/"
+        title: "GitHub 中国区用户排行榜",
+        desc: "按照 Followers 数量排序，展示中国优秀个人开发者",
+        link: "https://china-ranking.aolifu.org/"
       },
       {
         icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
         title: "GitHub 中国区用户排行榜",
         desc: "按照 Followers 数量排序，展示中国优秀个人开发者",
-        link: "https://china-ranking.32k.site/"
+        link: "https://githubrank.com/"
       }
     ]
   },
@@ -249,12 +237,6 @@ export const NavData: NavData[] = [
         link: "https://www.indietools.work/"
       },
       {
-        icon: "https://images.alans.site/file/1769405639672_favicon-32x32.webp",
-        title: "Indie Hacker Tools",
-        desc: "独立开发者导航站，发掘发掘最优秀的工具，助力你快速发布下一个应用！",
-        link: "https://free.mkdirs.com/zh"
-      },
-      {
         icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
         title: "中国独立开发者项目列表",
         desc: "作为开发者其实比较好奇其他人在做什么业余项目，所以特意建了这个库聚合所有中国独立开发者的项目。",
@@ -264,7 +246,7 @@ export const NavData: NavData[] = [
         icon: "https://images.alans.site/file/1769405667623_favicon.webp",
         title: "中国独立开发者项目列表（网页版）",
         desc: "为了更好的展示开发者的项目/产品。",
-        link: "https://developer.hubing.online/home"
+        link: "https://github.com/kisslove/chinese-independent-developer-site"
       },
       {
         icon: "https://images.alans.site/file/1769416544658_favicon-32x32.webp",
@@ -306,12 +288,6 @@ export const NavData: NavData[] = [
         title: "DigitalPlat Domain",
         desc: "免费域名服务，提供像 *.qzz.io 或曾有的 *.us.kg 这样的免费子域名，让个人和组织能免费拥有自己的数字身份，无需支付域名费用，适合用于学习、个人项目或快速建站。",
         link: "https://domain.digitalplat.org/"
-      },
-      {
-        icon: "https://images.alans.site/file/1769406234520_favicon.webp",
-        title: "DNS.fish",
-        desc: "DNS 查询工具。使用我们开发者优先的工具，在毫秒内分析域名健康状况、验证 DNS 传播，并检查 DNS 记录（A、MX、NS、CNAME）。",
-        link: "https://dns.fish/"
       },
       {
         icon: "https://images.alans.site/file/1769406264588_2998c7a3456d62c027c60ea1bb95fdd934ac84bf-192x192.webp",
@@ -499,6 +475,12 @@ export const NavData: NavData[] = [
         title: "VPS 促销监控",
         desc: "专业的 VPS 促销信息监控平台，实时更新各大厂商的 VPS 服务器优惠活动，包括 CPU、内存、硬盘、带宽等详细配置和价格对比，帮您找到最优惠的 VPS 方案。",
         link: "https://vps-monitor.czl.net/"
+      },
+      {
+        icon: "https://images.alans.site/file/1787905709196_favicon.svg",
+        title: "VPS 库存监控",
+        desc: "实时监控各大 VPS 提供商库存。",
+        link: "https://nodecompass.com/"
       },
       {
         icon: "https://images.alans.site/file/1786775239498_namae.dev.favicon.webp",
