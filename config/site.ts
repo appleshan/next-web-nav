@@ -249,16 +249,40 @@ export const NavData: NavData[] = [
         link: "https://github.com/kisslove/chinese-independent-developer-site"
       },
       {
-        icon: "https://images.alans.site/file/1769416544658_favicon-32x32.webp",
-        title: "IndieHub",
-        desc: "Discover tools, Launch products, and Ship applications faster and better.",
-        link: "https://indiehub.best/"
-      },
-      {
         icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
         title: "indie-hacker-tools",
         desc: "出海第一步，搞定工具库。收录独立开发者出海技术栈和工具",
         link: "https://github.com/weijunext/indie-hacker-tools"
+      },
+      {
+        icon: "https://images.alans.site/file/1769407000602_logo.webp",
+        title: "Free for Developers",
+        desc: "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
+        link: "https://free-for.dev/#/"
+      },
+      {
+        icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
+        title: "Stack on a budget (Free Tier Driven Development FTDD)",
+        desc: "A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool.",
+        link: "https://github.com/255kb/stack-on-a-budget"
+      },
+      {
+        icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
+        title: "Tools Of The Trade",
+        desc: "Tools of The Trade, from Hacker News.",
+        link: "https://github.com/cjbarber/ToolsOfTheTrade"
+      },
+      {
+        icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
+        title: "Awesome-Selfhosted",
+        desc: "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.",
+        link: "https://github.com/awesome-selfhosted/awesome-selfhosted"
+      },
+      {
+        icon: "https://images.alans.site/file/1769416544658_favicon-32x32.webp",
+        title: "IndieHub",
+        desc: "Discover tools, Launch products, and Ship applications faster and better.",
+        link: "https://indiehub.best/"
       }
     ]
   },
@@ -401,16 +425,22 @@ export const NavData: NavData[] = [
         link: "https://www.cnblogs.com/knqiufan/p/20094616"
       },
       {
-        icon: "https://images.alans.site/file/1769407000602_logo.webp",
-        title: "Free for Developers",
-        desc: "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
-        link: "https://free-for.dev/#/"
-      },
-      {
         icon: "https://images.alans.site/file/1769407028398_favicon.webp",
         title: "开发者的 Web3 开源大学",
         desc: "WTF Academy 是一个 Web3 开源大学，旨在培训 100,000 名开发者。我们提供高质量的课程和动手项目，帮助您学习、贡献并获得认证。无论您是初学者还是经验丰富的开发者，WTF Academy 为您提供 Web3 世界中必不可少的技能。",
         link: "https://www.wtf.academy/zh"
+      },
+      {
+        icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
+        title: "Awesome Web3 Learning Hub",
+        desc: "🚀 精心筛选的 Web3 / Crypto / DeFi / NFT / 区块链开发学习资源合集；涵盖 YouTube 博主 · Twitter KOL · 新闻网站 · 开源项目 · 工具 · 课程；适合 完全小白 到 进阶开发者 的全阶段学习路线",
+        link: "https://github.com/itgoyo/awesome-web3"
+      },
+      {
+        icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
+        title: "Awesome-Crypto",
+        desc: "币圈导航虚拟加密货币资源大全，手动整理的全网最全虚拟货币学习资料，涵盖了中心化交易所（如欧易OKX、币安Binance、Gate.io）、NFT市场、DeFi工具、加密钱包、巨鲸追踪和数据分析等，帮助用户轻松导航加密货币世界。",
+        link: "https://github.com/itgoyo/awesome-crypto"
       },
       {
         icon: "https://images.alans.site/file/1769407050787_vimlogo.svg",
