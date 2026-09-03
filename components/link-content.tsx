@@ -34,7 +34,7 @@ export function LinkContent() {
           </div>
           <div>
             你可以通过
-            <Link href="mailto:39454075@qq.com" target="_blank" rel="noreferrer">
+            <Link href="mailto:apple.shan@gmail.com" target="_blank" rel="noreferrer">
               <span className="px-3 underline decoration-wavy hover:text-purple-500">Email</span>
             </Link>
             联系我

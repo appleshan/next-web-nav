@@ -219,6 +219,24 @@ export const NavData: NavData[] = [
     title: "独立开发者",
     items: [
       {
+        icon: "https://images.alans.site/file/1769407000602_logo.webp",
+        title: "Free for Developers",
+        desc: "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
+        link: "https://free-for.dev/#/"
+      },
+      {
+        icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
+        title: "中国独立开发者项目列表",
+        desc: "作为开发者其实比较好奇其他人在做什么业余项目，所以特意建了这个库聚合所有中国独立开发者的项目。",
+        link: "https://github.com/1c7/chinese-independent-developer/"
+      },
+      {
+        icon: "https://images.alans.site/file/1769405667623_favicon.webp",
+        title: "中国独立开发者项目列表（网页版）",
+        desc: "为了更好的展示开发者的项目/产品。",
+        link: "https://github.com/kisslove/chinese-independent-developer-site"
+      },
+      {
         icon: "https://images.alans.site/file/1769405424974_indiehackertools-favicon-32x32.webp",
         title: "独立开发者出海工具箱",
         desc: "分享各种出海工具，让每个独立开发者都能开心赚美元！",
@@ -238,15 +256,9 @@ export const NavData: NavData[] = [
       },
       {
         icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
-        title: "中国独立开发者项目列表",
-        desc: "作为开发者其实比较好奇其他人在做什么业余项目，所以特意建了这个库聚合所有中国独立开发者的项目。",
-        link: "https://github.com/1c7/chinese-independent-developer/"
-      },
-      {
-        icon: "https://images.alans.site/file/1769405667623_favicon.webp",
-        title: "中国独立开发者项目列表（网页版）",
-        desc: "为了更好的展示开发者的项目/产品。",
-        link: "https://github.com/kisslove/chinese-independent-developer-site"
+        title: "Tools Of The Trade",
+        desc: "Tools of The Trade, from Hacker News.",
+        link: "https://github.com/cjbarber/ToolsOfTheTrade"
       },
       {
         icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
@@ -255,22 +267,16 @@ export const NavData: NavData[] = [
         link: "https://github.com/weijunext/indie-hacker-tools"
       },
       {
-        icon: "https://images.alans.site/file/1769407000602_logo.webp",
-        title: "Free for Developers",
-        desc: "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
-        link: "https://free-for.dev/#/"
+        icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
+        title: "indie-hacker-tools-plus",
+        desc: "为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀",
+        link: "https://github.com/XiaomingX/indie-hacker-tools-plus"
       },
       {
         icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
         title: "Stack on a budget (Free Tier Driven Development FTDD)",
         desc: "A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool.",
         link: "https://github.com/255kb/stack-on-a-budget"
-      },
-      {
-        icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
-        title: "Tools Of The Trade",
-        desc: "Tools of The Trade, from Hacker News.",
-        link: "https://github.com/cjbarber/ToolsOfTheTrade"
       },
       {
         icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
@@ -383,6 +389,12 @@ export const NavData: NavData[] = [
         title: "Supabase",
         desc: "PostgreSQL 云数据库，慷慨免费额度，集成实时数据订阅、身份验证、文件存储等功能。",
         link: "https://supabase.com/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788424884974_favicon.webp",
+        title: "上码 (Upma)",
+        desc: "最简单的静态网站托管平台。无论是代码，还是 ChatGPT / DeepSeek 生成的网页，无需配置，不用懂服务器、不用买域名，拖进来就能分享给全世界。",
+        link: "https://www.upma.cn/"
       }
     ]
   },
@@ -566,10 +578,34 @@ export const NavData: NavData[] = [
         link: "https://www.aishort.top/"
       },
       {
+        icon: "https://images.alans.site/file/1788424204954_logo-new.svg",
+        title: "Agent Skills",
+        desc: "人工筛选 63,000+ AI Agent Skills，支持 Claude Code、Codex、Antigravity",
+        link: "https://agent-skills.cc/"
+      },
+      {
         icon: "https://images.alans.site/file/1786783980567_2026-08-15_16-49.webp",
         title: "BAT AI",
         desc: "找到合适的 AI 工具",
-        link: "https://bataitools.com/zh/"
+        link: "https://bataitools.com/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788424627629_favicon-48x48.webp",
+        title: "AI App Icon Generator",
+        desc: "用任意语言描述你的应用——几秒内获得精致图标。",
+        link: "https://www.appiconkitchen.com/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788429296386_favicon.webp",
+        title: "DeepWiki",
+        desc: "Cognition AI（Devin 的开发团队）推出的一款 AI 驱动的代码库理解与文档生成平台。",
+        link: "https://deepwiki.com/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788430280170_favicon.webp",
+        title: "RepoReaper",
+        desc: "基于 DeepSeek 模型的源码研读工具。能深度解析 GitHub 项目架构，是开发者快速接手新项目、计算机学生阅读源码的“外挂”。",
+        link: "https://repo.realdexter.com/"
       }
     ]
   },
