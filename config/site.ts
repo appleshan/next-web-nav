@@ -125,6 +125,12 @@ export const NavData: NavData[] = [
         title: "Venice.ai",
         desc: "Venice.ai 是一个主打隐私保护和无审查（Uncensored）的去中心化生成式人工智能平台。它允许用户进行文字聊天、编写代码以及生成图像，而不在中心化服务器上记录或存储用户的提示词和对话历史。",
         link: "https://venice.ai/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788863408102_favicon-32x32.webp",
+        title: "Worldwide AI Hub",
+        desc: "全球 AI 顶部导航",
+        link: "https://worldwideaihub.com/"
       }
     ]
   },
@@ -166,6 +172,24 @@ export const NavData: NavData[] = [
         title: "Code Wiki",
         desc: "Google 推出的基于 Gemini AI 的代码库文档平台，自动扫描代码仓生成结构化 Wiki，提供智能对话和架构图生成功能。",
         link: "https://codewiki.google/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788429296386_favicon.webp",
+        title: "DeepWiki",
+        desc: "Cognition AI（Devin 的开发团队）推出的一款 AI 驱动的代码库理解与文档生成平台。",
+        link: "https://deepwiki.com/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788854589857_icon.webp",
+        title: "Zread",
+        desc: "Zread是帮助开发者快速掌握项目核心知识的AI工具，被称为“国产 DeepWiki”。",
+        link: "https://zread.ai/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788430280170_favicon.webp",
+        title: "RepoReaper",
+        desc: "基于 DeepSeek 模型的源码研读工具。能深度解析 GitHub 项目架构，是开发者快速接手新项目、计算机学生阅读源码的“外挂”。",
+        link: "https://repo.realdexter.com/"
       }
     ]
   },
@@ -296,6 +320,12 @@ export const NavData: NavData[] = [
     title: "域名",
     items: [
       {
+        icon: "https://images.alans.site/file/1788865923083_name.com.webp",
+        title: "name.com",
+        desc: "据说比较老牌",
+        link: "https://www.name.com/"
+      },
+      {
         icon: "https://images.alans.site/file/1769405749156_free-namecheap-icon-svg-download-png-283654.webp",
         title: "Namecheap",
         desc: "据说比较便宜",
@@ -308,6 +338,12 @@ export const NavData: NavData[] = [
         link: "https://www.namesilo.com/"
       },
       {
+        icon: "https://images.alans.site/file/1788865471105_spaceship-favicon.webp",
+        title: "Spaceship",
+        desc: "域名价格几乎都比 Namecheap 便宜。",
+        link: "https://www.spaceship.com/zh/"
+      },
+      {
         icon: "https://images.alans.site/file/1769406060145_730a836cae71cfce98c16911bc003b46d8ec83cb-180x180.webp",
         title: "Dynadot",
         desc: "购买域名送域名邮箱，还可免费制作网站 Logo，非常贴心。",
@@ -316,7 +352,7 @@ export const NavData: NavData[] = [
       {
         icon: "https://images.alans.site/file/1769406185418_FsmjPBgWIAMFIyH.webp",
         title: "DigitalPlat Domain",
-        desc: "免费域名服务，提供像 *.qzz.io 或曾有的 *.us.kg 这样的免费子域名，让个人和组织能免费拥有自己的数字身份，无需支付域名费用，适合用于学习、个人项目或快速建站。",
+        desc: "免费域名服务，提供像 *.qzz.io 这样的免费子域名，让个人和组织能免费拥有自己的数字身份，无需支付域名费用，适合用于学习、个人项目或快速建站。",
         link: "https://domain.digitalplat.org/"
       },
       {
@@ -332,6 +368,12 @@ export const NavData: NavData[] = [
         link: "https://zh-hans.tld-list.com/"
       },
       {
+        icon: "https://images.alans.site/file/1769406400070_favicon-32x32.webp",
+        title: "Query.Domains",
+        desc: "即时批量域名可用性检查工具。",
+        link: "https://query.domains/"
+      },
+      {
         icon: "https://images.alans.site/file/1769406353663_b3a4194de501ba020a2a520474bcc29920d88d7c-192x192.webp",
         title: "Lean Domain Search",
         desc: "域名被占用时使用，可根据关键词快速生成相关域名。",
@@ -344,16 +386,16 @@ export const NavData: NavData[] = [
         link: "https://who.is/"
       },
       {
-        icon: "https://images.alans.site/file/1769406400070_favicon-32x32.webp",
-        title: "Query.Domains",
-        desc: "即时批量域名可用性检查工具。",
-        link: "https://query.domains/"
-      },
-      {
         icon: "https://images.alans.site/file/1770168635792_image.webp",
         title: "DNS Check",
         desc: "Cloudflare官方推荐的，检测域名解析",
         link: "https://dnschecker.org/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788866712911_cb74b3066b76e48e.webp",
+        title: "Public Suffix List",
+        desc: "Cloudflare官方推荐的，检测域名解析",
+        link: "https://publicsuffix.org/list/"
       }
     ]
   },
@@ -422,20 +464,8 @@ export const NavData: NavData[] = [
     ]
   },
   {
-    title: "知识库",
+    title: "Web3",
     items: [
-      {
-        icon: "https://images.alans.site/file/1769406961460_favicon.svg",
-        title: "Claude Code 从入门到精通",
-        desc: "专为开发者打造的终极文档指南。从环境配置到构建自定义 AI 智能体，这套免费课程将帮助您掌握下一代编程工具，提升 3 倍开发效率。",
-        link: "https://claudecode.tangshuang.net/"
-      },
-      {
-        icon: "https://images.alans.site/file/1769402941979_images.webp",
-        title: "Codex CLI 完全使用指南：从入门到精通",
-        desc: "文章目的同样定位也是一本工具书，让我自己在使用 Codex 时遇到的一些问题或者相关使用和技巧的时候可以方便翻阅。",
-        link: "https://www.cnblogs.com/knqiufan/p/20094616"
-      },
       {
         icon: "https://images.alans.site/file/1769407028398_favicon.webp",
         title: "开发者的 Web3 开源大学",
@@ -453,6 +483,23 @@ export const NavData: NavData[] = [
         title: "Awesome-Crypto",
         desc: "币圈导航虚拟加密货币资源大全，手动整理的全网最全虚拟货币学习资料，涵盖了中心化交易所（如欧易OKX、币安Binance、Gate.io）、NFT市场、DeFi工具、加密钱包、巨鲸追踪和数据分析等，帮助用户轻松导航加密货币世界。",
         link: "https://github.com/itgoyo/awesome-crypto"
+      }
+    ]
+  },
+  {
+    title: "知识库",
+    items: [
+      {
+        icon: "https://images.alans.site/file/1769406961460_favicon.svg",
+        title: "Claude Code 从入门到精通",
+        desc: "专为开发者打造的终极文档指南。从环境配置到构建自定义 AI 智能体，这套免费课程将帮助您掌握下一代编程工具，提升 3 倍开发效率。",
+        link: "https://claudecode.tangshuang.net/"
+      },
+      {
+        icon: "https://images.alans.site/file/1769402941979_images.webp",
+        title: "Codex CLI 完全使用指南：从入门到精通",
+        desc: "文章目的同样定位也是一本工具书，让我自己在使用 Codex 时遇到的一些问题或者相关使用和技巧的时候可以方便翻阅。",
+        link: "https://www.cnblogs.com/knqiufan/p/20094616"
       },
       {
         icon: "https://images.alans.site/file/1769407050787_vimlogo.svg",
@@ -507,10 +554,22 @@ export const NavData: NavData[] = [
         link: "https://tonglema.com/"
       },
       {
+        icon: "https://images.alans.site/file/1786775239498_namae.dev.favicon.webp",
+        title: "namae",
+        desc: "查询各个平台名字",
+        link: "https://namae.dev/"
+      },
+      {
         icon: "https://images.alans.site/file/1769407321794_87b99da372013e95152041f7e47d9457a6e4e65b-128x128.webp",
         title: "沉浸式翻译",
         desc: "网页、PDF 文档、电子书以及视频字幕，双语翻译，体验极佳！",
         link: "https://immersivetranslate.com/zh-Hans/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788538169599_kiss-translator.webp",
+        title: "简约翻译",
+        desc: "一个简约的双语对照翻译扩展，支持网页、划词、视频字幕翻译等功能，支持多种翻译服务及AI翻译接口，拥有丰富灵活的自定义选项。",
+        link: "https://github.com/fishjar/kiss-translator/"
       },
       {
         icon: "https://images.alans.site/file/1769407341241_favicon.webp",
@@ -523,18 +582,30 @@ export const NavData: NavData[] = [
         title: "VPS 库存监控",
         desc: "实时监控各大 VPS 提供商库存。",
         link: "https://nodecompass.com/"
-      },
-      {
-        icon: "https://images.alans.site/file/1786775239498_namae.dev.favicon.webp",
-        title: "namae",
-        desc: "查询各个平台名字",
-        link: "https://namae.dev/"
       }
     ]
   },
   {
     title: "AI 工具箱",
     items: [
+      {
+        icon: "https://images.alans.site/file/1788796878623_favicon-aq6crjze.svg",
+        title: "Models.dev",
+        desc: "AI 模型规格、定价与能力的开放数据库。",
+        link: "https://models.dev/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788424627629_favicon-48x48.webp",
+        title: "AI App Icon Generator",
+        desc: "用任意语言描述你的应用——几秒内获得精致图标。",
+        link: "https://www.appiconkitchen.com/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788424204954_logo-new.svg",
+        title: "Agent Skills",
+        desc: "人工筛选 63,000+ AI Agent Skills，支持 Claude Code、Codex、Antigravity",
+        link: "https://agent-skills.cc/"
+      },
       {
         icon: "https://images.alans.site/file/1786775289261_favicon.webp",
         title: "AI 星球",
@@ -578,40 +649,64 @@ export const NavData: NavData[] = [
         link: "https://www.aishort.top/"
       },
       {
-        icon: "https://images.alans.site/file/1788424204954_logo-new.svg",
-        title: "Agent Skills",
-        desc: "人工筛选 63,000+ AI Agent Skills，支持 Claude Code、Codex、Antigravity",
-        link: "https://agent-skills.cc/"
-      },
-      {
         icon: "https://images.alans.site/file/1786783980567_2026-08-15_16-49.webp",
         title: "BAT AI",
         desc: "找到合适的 AI 工具",
         link: "https://bataitools.com/"
       },
       {
-        icon: "https://images.alans.site/file/1788424627629_favicon-48x48.webp",
-        title: "AI App Icon Generator",
-        desc: "用任意语言描述你的应用——几秒内获得精致图标。",
-        link: "https://www.appiconkitchen.com/"
+        icon: "https://images.alans.site/file/1788867370773_favicon.webp",
+        title: "AI Hubs",
+        desc: "Discover The Best AI Tools. 找到合适的 AI 工具。",
+        link: "https://aihubs.ai/"
       },
       {
-        icon: "https://images.alans.site/file/1788429296386_favicon.webp",
-        title: "DeepWiki",
-        desc: "Cognition AI（Devin 的开发团队）推出的一款 AI 驱动的代码库理解与文档生成平台。",
-        link: "https://deepwiki.com/"
+        icon: "https://images.alans.site/file/1788867842654_2026-09-08_20-43.webp",
+        title: "个人开发者的 AI 创意",
+        desc: "发现个人开发者的 AI 创意，一个属于独立开发者的 AI 项目展台，提交你的作品，通过审核后即可获得曝光。",
+        link: "https://ai.wenjingxiezuo.com/"
       },
       {
-        icon: "https://images.alans.site/file/1788430280170_favicon.webp",
-        title: "RepoReaper",
-        desc: "基于 DeepSeek 模型的源码研读工具。能深度解析 GitHub 项目架构，是开发者快速接手新项目、计算机学生阅读源码的“外挂”。",
-        link: "https://repo.realdexter.com/"
+        icon: "https://images.alans.site/file/1788868014982_favicon.webp",
+        title: "Discover the best AI tools.",
+        desc: "Discover The Best AI Tools. Explore a curated AI tool directory spanning writing, coding, image generation, automation, and more — free to browse, no account required.",
+        link: "https://indexof.ai/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788869297961_favicon.webp",
+        title: "锈点导航/分享创造",
+        desc: "收集值得探索的产品、工具与创意项目，按热度和发布时间快速筛选。",
+        link: "https://rustpoint.com/nav"
+      },
+      {
+        icon: "https://images.alans.site/file/1788868555878_favicon.webp",
+        title: "52运营（52yunying.com）",
+        desc: "运营人的 AI 提效工具箱与实战资料库.",
+        link: "https://52yunying.com/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788868759676_favicon-32x32.webp",
+        title: "Find Websites From World",
+        desc: "Discover amazing websites and tools from every corner of the world.",
+        link: "https://fwfw.app/"
       }
     ]
   },
   {
     title: "其他导航",
     items: [
+      {
+        icon: "https://images.alans.site/file/1788868954534_favicon.webp",
+        title: "卡卡轻导航",
+        desc: "极简聚合导航、在线工具箱与在线小游戏",
+        link: "https://kaka770.cn/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788869161075_favicon.webp",
+        title: "BIRDNAV-飞鸟导航",
+        desc: "BIRDNAV-飞鸟导航",
+        link: "https://birdnav.com/"
+      },
       {
         icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
         title: "中文独立博客列表",
