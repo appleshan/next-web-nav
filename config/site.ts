@@ -79,12 +79,6 @@ export const NavData: NavData[] = [
         link: "https://gemini.google.com/"
       },
       {
-        icon: "https://images.alans.site/file/1769403288407_turquoise402xperplexity.ai_.png.webp",
-        title: "perplexity",
-        desc: "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
-        link: "https://www.perplexity.ai/"
-      },
-      {
         icon: "https://images.alans.site/file/1769403328068_grok-ai-icon.webp",
         title: "Grok",
         desc: "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
@@ -101,18 +95,6 @@ export const NavData: NavData[] = [
         title: "DeepSeek - 探索未至之境",
         desc: "深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
         link: "https://chat.deepseek.com/"
-      },
-      {
-        icon: "https://images.alans.site/file/1769403420056_apple-touch-icon.webp",
-        title: "Poe",
-        desc: "Poe 一款由 Quora 开发的应用程序。该应用程序集成了多种生成式人工智能，可使用户能够便利切换，比较和使用市场上主流的大型语言模型。",
-        link: "https://poe.com/"
-      },
-      {
-        icon: "https://images.alans.site/file/1769489409958_favicon.webp",
-        title: "Microsoft Copilot",
-        desc: "Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers. Try Copilot now.",
-        link: "https://copilot.microsoft.com/"
       },
       {
         icon: "https://images.alans.site/file/1769403514760_monica-im-logo.webp",
@@ -298,6 +280,18 @@ export const NavData: NavData[] = [
       },
       {
         icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
+        title: "Awesome Indie Hacker Tools",
+        desc: "独立开发/出海开发相关技术栈及工具收录 / Find the best tools for indie hackers here",
+        link: "https://github.com/iAmCorey/awesome-indie-hacker-tools"
+      },
+      {
+        icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
+        title: "Indie Dev Toolkit",
+        desc: "A curated list of essential tools and resources for indie hackers, solo founders, and bootstrapped startups building both web and mobile apps. Whether you're launching your MVP or scaling your product, this list offers free and freemium options to help you succeed without breaking the bank!",
+        link: "https://github.com/thedaviddias/indie-dev-toolkit"
+      },
+      {
+        icon: "https://images.alans.site/file/1769405200808_github_logo_icon_188438.webp",
         title: "Stack on a budget (Free Tier Driven Development FTDD)",
         desc: "A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool.",
         link: "https://github.com/255kb/stack-on-a-budget"
@@ -320,22 +314,10 @@ export const NavData: NavData[] = [
     title: "域名",
     items: [
       {
-        icon: "https://images.alans.site/file/1788865923083_name.com.webp",
-        title: "name.com",
-        desc: "据说比较老牌",
-        link: "https://www.name.com/"
-      },
-      {
-        icon: "https://images.alans.site/file/1769405749156_free-namecheap-icon-svg-download-png-283654.webp",
-        title: "Namecheap",
-        desc: "据说比较便宜",
-        link: "https://www.namecheap.com/"
-      },
-      {
-        icon: "https://images.alans.site/file/1769405904070_namesilo-logo-.webp",
-        title: "NameSilo",
-        desc: "提供最低的日常域名价格，自动屏蔽whois",
-        link: "https://www.namesilo.com/"
+        icon: "https://images.alans.site/file/1769402751850_08ba50ec1de91ad38e7d4024121dba76c45ab53e-512x512.webp",
+        title: "Cloudflare Registrar",
+        desc: "以成本价提供域名注册，无隐藏费用。",
+        link: "https://www.cloudflare.com/products/registrar/"
       },
       {
         icon: "https://images.alans.site/file/1788865471105_spaceship-favicon.webp",
@@ -348,6 +330,24 @@ export const NavData: NavData[] = [
         title: "Dynadot",
         desc: "购买域名送域名邮箱，还可免费制作网站 Logo，非常贴心。",
         link: "http://www.dynadot.com/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788865923083_name.com.webp",
+        title: "name.com",
+        desc: "据说比较老牌",
+        link: "https://www.name.com/"
+      },
+      {
+        icon: "https://images.alans.site/file/1769405749156_free-namecheap-icon-svg-download-png-283654.webp",
+        title: "Namecheap",
+        desc: "知名域名注册商，提供具有竞争力的价格和优质客户服务。",
+        link: "https://www.namecheap.com/"
+      },
+      {
+        icon: "https://images.alans.site/file/1769405904070_namesilo-logo-.webp",
+        title: "NameSilo",
+        desc: "以低价和批量注册功能著称的域名注册商。",
+        link: "https://www.namesilo.com/"
       },
       {
         icon: "https://images.alans.site/file/1769406185418_FsmjPBgWIAMFIyH.webp",
@@ -582,6 +582,12 @@ export const NavData: NavData[] = [
         title: "VPS 库存监控",
         desc: "实时监控各大 VPS 提供商库存。",
         link: "https://nodecompass.com/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788940217440_icon.svg",
+        title: "OG Image Generator",
+        desc: "Open Graph图片生成API，提供10个模板、自定义品牌和URL自动抓取。免费版50张/月，付费版起价$4.90/月。",
+        link: "https://ogimg.xyz/"
       }
     ]
   },

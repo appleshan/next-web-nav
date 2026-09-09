@@ -13,7 +13,7 @@ export function SiteFooter() {
                   className="text-blueGray-500 py-1 text-center text-sm font-semibold md:text-left"
                   rel="noreferrer"
                 >
-                  Copyright © 2025-2026 - present Creative Alans
+                  Copyright © 2025-2026 Alan Vane's. All Rights Reserved.
                 </a>
               </div>
             </div>
