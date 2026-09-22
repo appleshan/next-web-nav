@@ -601,16 +601,28 @@ export const NavData: NavData[] = [
         link: "https://models.dev/"
       },
       {
-        icon: "https://images.alans.site/file/1788424627629_favicon-48x48.webp",
-        title: "AI App Icon Generator",
-        desc: "用任意语言描述你的应用——几秒内获得精致图标。",
-        link: "https://www.appiconkitchen.com/"
+        icon: "https://images.alans.site/file/1789486653782_favicon.webp",
+        title: "Skills",
+        desc: "Skills are reusable capabilities for AI agents. Install them with a single command to enhance your agents with access to procedural knowledge.",
+        link: "https://www.skills.sh/"
       },
       {
         icon: "https://images.alans.site/file/1788424204954_logo-new.svg",
         title: "Agent Skills",
         desc: "人工筛选 63,000+ AI Agent Skills，支持 Claude Code、Codex、Antigravity",
         link: "https://agent-skills.cc/"
+      },
+      {
+        icon: "https://images.alans.site/file/1789187608060_apple-touch-120x120.webp",
+        title: "X-CMD",
+        desc: "All AI Builder need, is X-CMD. 為智能體而生，全球唯一 Shell 技能庫。",
+        link: "https://hk.x-cmd.com/"
+      },
+      {
+        icon: "https://images.alans.site/file/1788424627629_favicon-48x48.webp",
+        title: "AI App Icon Generator",
+        desc: "用任意语言描述你的应用——几秒内获得精致图标。",
+        link: "https://www.appiconkitchen.com/"
       },
       {
         icon: "https://images.alans.site/file/1786775289261_favicon.webp",
